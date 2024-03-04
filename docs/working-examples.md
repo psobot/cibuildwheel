@@ -46,8 +46,8 @@ title: Working examples
 | [coverage.py][]                   | ![github icon][] | ![windows icon][] ![apple icon][] ![linux icon][] | The coverage tool for Python |
 | [PyCryptodome][]                  | ![github icon][] | ![apple icon][] ![linux icon][] ![windows icon][] | A self-contained cryptographic library for Python |
 | [CTranslate2][]                   | ![github icon][] | ![windows icon][] ![apple icon][] ![linux icon][] | Includes libraries from the [Intel oneAPI toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit.html) and CUDA kernels compiled for multiple GPU architectures. |
-| [PyYAML][]                        | ![github icon][] | ![apple icon][] | Canonical source repository for PyYAML |
 | [Line Profiler][]                 | ![github icon][] | ![apple icon][] ![linux icon][] ![windows icon][] | Line-by-line profiling for Python |
+| [PyYAML][]                        | ![github icon][] | ![apple icon][] | Canonical source repository for PyYAML |
 | [PyAV][]                          | ![github icon][] | ![windows icon][] ![apple icon][] ![linux icon][] | Pythonic bindings for FFmpeg's libraries. |
 | [numexpr][]                       | ![github icon][] ![travisci icon][] | ![windows icon][] ![apple icon][] ![linux icon][] | Fast numerical array expression evaluator for Python, NumPy, Pandas, PyTables and more |
 | [pikepdf][]                       | ![github icon][] | ![windows icon][] ![apple icon][] ![linux icon][] | A Python library for reading and writing PDF, powered by QPDF |
@@ -62,8 +62,8 @@ title: Working examples
 | [OpenTimelineIO][]                | ![github icon][] | ![apple icon][] ![linux icon][] ![windows icon][] | Open Source API and interchange format for editorial timeline information. |
 | [PyTables][]                      | ![github icon][] | ![windows icon][] ![apple icon][] ![linux icon][] | A Python package to manage extremely large amounts of data |
 | [Parselmouth][]                   | ![github icon][] | ![windows icon][] ![apple icon][] ![linux icon][] | A Python interface to the Praat software package, using pybind11, C++17 and CMake, with the core Praat static library built only once and shared between wheels. |
-| [DeepForest][]                    | ![github icon][] | ![apple icon][] ![linux icon][] ![windows icon][] | An Efficient, Scalable and Optimized Python Framework for Deep Forest (2021.2.1) |
 | [google neuroglancer][]           | ![github icon][] | ![windows icon][] ![apple icon][] ![linux icon][] | WebGL-based viewer for volumetric data |
+| [DeepForest][]                    | ![github icon][] | ![apple icon][] ![linux icon][] ![windows icon][] | An Efficient, Scalable and Optimized Python Framework for Deep Forest (2021.2.1) |
 | [AutoPy][]                        | ![travisci icon][] | ![windows icon][] ![apple icon][] ![linux icon][] | Includes a Windows Travis build. |
 | [H3-py][]                         | ![github icon][] | ![apple icon][] ![linux icon][] ![windows icon][] | Python bindings for H3, a hierarchical hexagonal geospatial indexing system |
 | [mosec][]                         | ![github icon][] | ![linux icon][] ![apple icon][] | A machine learning model serving framework powered by Rust |
@@ -154,8 +154,8 @@ title: Working examples
 [coverage.py]: https://github.com/nedbat/coveragepy
 [PyCryptodome]: https://github.com/Legrandin/pycryptodome
 [CTranslate2]: https://github.com/OpenNMT/CTranslate2
-[PyYAML]: https://github.com/yaml/pyyaml
 [Line Profiler]: https://github.com/pyutils/line_profiler
+[PyYAML]: https://github.com/yaml/pyyaml
 [PyAV]: https://github.com/PyAV-Org/PyAV
 [numexpr]: https://github.com/pydata/numexpr
 [pikepdf]: https://github.com/pikepdf/pikepdf
@@ -170,8 +170,8 @@ title: Working examples
 [OpenTimelineIO]: https://github.com/PixarAnimationStudios/OpenTimelineIO
 [PyTables]: https://github.com/PyTables/PyTables
 [Parselmouth]: https://github.com/YannickJadoul/Parselmouth
-[DeepForest]: https://github.com/LAMDA-NJU/Deep-Forest
 [google neuroglancer]: https://github.com/google/neuroglancer
+[DeepForest]: https://github.com/LAMDA-NJU/Deep-Forest
 [AutoPy]: https://github.com/autopilot-rs/autopy
 [H3-py]: https://github.com/uber/h3-py
 [mosec]: https://github.com/mosecorg/mosec
